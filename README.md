@@ -8,7 +8,7 @@ I used php for making login system and sql for relational database. HTML/CSS, Bo
 
 Example of Homepage:
 
-![Sportnews](https://user-images.githubusercontent.com/101759097/191014274-dfd6d3c7-691c-4229-af4f-c80ac9da2a46.png)
+![Sportnews](https://user-images.githubusercontent.com/101759097/191014779-ba230c9e-832e-4cf2-9438-4d9910e9f4f2.png)
 
 Example of Registration form:
 
