@@ -1,6 +1,6 @@
 # Sport-news-website
 
-This is a simple Web site for reading sport news, currently on localhost. There is "register" option for new users, after successful registration, users can login with their username and password any time they want.
+This is a simple Web site for watching sport news, currently on localhost. There is "register" option for new users, after successful registration, users can login with their username and password any time they want.
 
 To see all the features of this Web site, you can download the files and locally host it. (e.g. download files into htdocs folder of Xampp and create database with the same name as defined in code).
 
