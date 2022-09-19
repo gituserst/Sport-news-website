@@ -4,7 +4,7 @@ This is a simple Web site for watching sport news, currently on localhost. There
 
 To see all the features of this Web site, you can download the files and locally host it. (e.g. download files into htdocs folder of Xampp and create database with the same name as defined in code).
 
-I used php for making login system and sql for relational database. HTML/CSS, Bootstrap for design.
+I used Php for making login system and Sql for relational database. HTML/CSS, Bootstrap for design.
 
 Example of Homepage:
 
