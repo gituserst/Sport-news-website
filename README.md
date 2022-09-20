@@ -1,4 +1,4 @@
-# Sport-news-website
+# Sport news website
 
 This is a simple Web site for watching sport news, currently on localhost. There is "register" option for new users, after successful registration, users can login with their username and password any time they want.
 
